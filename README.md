@@ -1,5 +1,4 @@
 # Crypto-Exchange
-
 This is a simple crypto transfer website built using the Web3 technology.
 </br>
 
@@ -9,23 +8,40 @@ View the balance of the connected wallet </br>
 Transfer cryptocurrency to another wallet address </br>
 View the transaction history of the connected wallet </br>
 
+# Installation process
 
-Installation </br>
-Clone the repository: </br>
+Install framework <br>
+Choose react framework and also react varient
+```
+cd client 
+npm init vite@latest
+```
 
-git clone https://github.com/[USERNAME]/web3-crypto-transfer.git </br>
 
-Install the dependencies: </br>
+Make sure you have npm installed, else run
+```
+npm install
+```
 
-cd web3-crypto-transfer </br>
-npm install </br>
-Start the server: </br>
+For installation of Tailwind run
+```
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+Install react icons 
+```
+npm install react-icons
+```
+For interacting to the blockchain install
+``` 
+npm install ethers
+```
 
-node server.js </br>
-Open your web browser and go to http://localhost:3000 to view the app.
+Setting up the smart contract 
+```
+cd smart_contract
+npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
+```
 
-Technologies Used </br>
-React.js 
-Node.js
-Express.js
-Solidity
+Good to go
+
