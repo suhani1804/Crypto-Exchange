@@ -1,5 +1,5 @@
 # Crypto-Exchange
-This is a simple crypto transfer website built using the Web3 technology.
+This is a crypto transfer website built using the Web3 technology.
 </br>
 
 Features: </br>
