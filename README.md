@@ -10,7 +10,7 @@ Features: </br>
 
 # Installation process
 
-Make sure you have npm installed [a link](https://nodejs.org/en/download)
+Make sure you have npm installed [click here](https://nodejs.org/en/download) to install 
 
 Run this to install all the dependencies
 ```
