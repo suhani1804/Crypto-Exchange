@@ -8,14 +8,9 @@ Features: </br>
 3.Transfer cryptocurrency to another wallet address </br>
 4.View the transaction history of the connected wallet </br>
 
-Tech stacks
+Tech stacks used 
 ``` 
-HTML 
-CSS
-React.js 
-Ether.js
-Hardhat
-
+HTML , CSS , React.js , Ether.js , Hardhat
 ```
 # Installation process
 
