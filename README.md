@@ -8,8 +8,21 @@ Features: </br>
 3.Transfer cryptocurrency to another wallet address </br>
 4.View the transaction history of the connected wallet </br>
 
+Tech stacks
+``` 
+HTML 
+CSS
+React.js 
+Ether.js
+Hardhat
+
+```
 # Installation process
 
+clone repo
+```
+git clone https://github.com/suhani1804/Crypto-Exchange.git
+```
 Make sure you have npm installed [click here](https://nodejs.org/en/download) to install 
 
 Run this to install all the dependencies
