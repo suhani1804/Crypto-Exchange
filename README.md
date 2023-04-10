@@ -10,7 +10,7 @@ Features: </br>
 
 Tech stacks used 
 ``` 
-HTML , CSS , React.js , Ether.js , Hardhat
+HTML , CSS , solidity, javascript, React.js , Ether.js , Hardhat
 ```
 # Installation process
 
