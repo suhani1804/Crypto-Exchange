@@ -13,8 +13,8 @@ Tech stacks used
 HTML , CSS , solidity, javascript, React.js , Ether.js , Hardhat
 ```
 # Installation process
-
-clone repo
+Fork the repo
+clone it
 ```
 git clone https://github.com/suhani1804/Crypto-Exchange.git
 ```
